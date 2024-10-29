@@ -25,9 +25,9 @@ Para ejecutar este proyecto necesitas:
 
 ## Configuración de la Base de Datos
 
-1. En tu sistema de gestión de MySQL, importa el archivo `bd_registros.sql` incluido en este repositorio. Este archivo crea la base de datos `gestion_empleados` y la tabla necesaria (`empleados`) para almacenar los registros. 
+1. En tu sistema de gestión de MySQL, importa el archivo `bd_registros.sql` incluido en este repositorio. Este archivo crea la base de datos `bd_registros` y la tabla necesaria (`empleados`) para almacenar los registros. Antes de importar deberías tener creada la base de datos en MySQL `CREATE DATABASE bd_registros`.
 
    Puedes importar el archivo usando el siguiente comando en MySQL:
 
    ```bash
-   mysql -u tu_usuario -p gestion_empleados < bd_registros.sql
+   mysql -u tu_usuario -p bd_registros < 'tu_ruta_de_carpetas'\bd_registros.sql
