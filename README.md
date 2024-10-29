@@ -21,7 +21,8 @@ Para ejecutar este proyecto necesitas:
 
 1. Tener instalado **Java JDK** (Java Development Kit).
 2. Tener configurada una base de datos **MySQL**.
-3. **MySQL Connector**: Descargado y configurado en el proyecto. Puedes obtenerlo desde el sitio oficial de MySQL en [este enlace](https://dev.mysql.com/downloads/connector/j/).
+3. **NetBeans** (o cualquier otro IDE de Java, como **Eclipse** o **IntelliJ IDEA**) para abrir y ejecutar el proyecto.
+4. **MySQL Connector**: Descargado y configurado en el proyecto. Puedes obtenerlo desde el sitio oficial de MySQL en [este enlace](https://dev.mysql.com/downloads/connector/j/).
 
 ## Configuración de la Base de Datos
 
